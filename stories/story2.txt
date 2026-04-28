@@ -1,10 +1,10 @@
 Jenny's favorite place in the world is {place}
 growing up, she would go there every {length of time}
 there were always so many activities that she loved
-she would {activity}, {activity}, and {activity}
-One time when she was {activity}
-she fell and hurt her {body part}
+but her favorite was {game}
+Her and her best friend would play for hours on end
+One day, she fell and hurt her {body part}
 she started {action} and {action}
 After this incident she didn't go back to {place} for {number} years.
 Last year she went back and had the {adjuctive} time!
-Now she makes a point of going back every {length of time1}
+Now she makes a point of going back every {length of time}

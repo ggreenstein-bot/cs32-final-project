@@ -1,4 +1,5 @@
 Once upon a time, there was a dog named {boy name}
 and he was a very {adjective} dog.
-He loves, {noun}, {noun}, {noun}.
+He loves, {noun}, {activity}, {sport}.
 He also loved {food}.
+One day he ate so much that he started ()
