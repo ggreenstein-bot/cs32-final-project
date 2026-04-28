@@ -44,6 +44,12 @@ def intro():
             print("The rules are simple: \n answer the prompts, \n wait for the story, \n and prepare to laugh")
             print("This is a family friendly game. Please keep your answers appropriate")
             return True
+def save_final_story(text):
+    filename = input("what do you want to name your story?")
+    path = f"finalstories/{filename}.txt"
+    with open(path, "w") as f:
+        f.write(text)
+    print(f"\n Your story has been saved to {path}")
 
 def main():
     if not intro():
