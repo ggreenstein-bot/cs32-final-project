@@ -1,0 +1,4 @@
+Once upon a time, there was a dog named {boy name}
+and he was a very {adjective} dog.
+He loves, {noun}, {noun}, {noun}.
+He also loved {food}.
