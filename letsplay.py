@@ -44,6 +44,7 @@ def intro():
             print("The rules are simple: \n answer the prompts, \n wait for the story, \n and prepare to laugh")
             print("This is a family friendly game. Please keep your answers appropriate")
             return True
+
 def save_final_story(text):
     filename = input("what do you want to name your story?")
     path = f"finalstories/{filename}.txt"
@@ -57,14 +58,18 @@ def main():
     #pick a random story
     story_filename = random_story()
     story_text = load_story(story_filename)
-
+#find placeholders in the text
     placeholders = find_placeholders(story_text)
+#get user inputs to the placeholders
     answers = grab_user_inputs(placeholders)
-
+# fill the story using the story text and user inputs
     final_story = fill_story(story_text, answers)
 
     print("\n Your final story:\n")
     print(final_story)
+
+#call the function to save final story to folder
+    save_final_story(final_story)
 
 if __name__ == '__main__':
     main()
