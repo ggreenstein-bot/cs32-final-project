@@ -1,8 +1,8 @@
 Today, my class went on a field trip to the {place}.
-Our teacher, {teacher_name}, told us to bring a {adjective} {object}.
+Our teacher, {name}, told us to bring a {adjective} {object}.
 On the way there, we rode in a {color} {vehicle} that smelled like {food}.
 When we arrived, a giant {animal} greeted us at the entrance.
-I got to try a {adjective2} experiment with {liquid} and {plural_noun}.
-My best friend {friend_name} accidentally dropped their {silly_object} in the {place_feature}.
-Everyone laughed so hard that even the {job_title} started {verb_ing}.
-At the end of the day, we all agreed it was the most {feeling} field trip ever.  
+I got to try a {another adjective} experiment with {liquid} and {plural noun}.
+My best friend {friend name} accidentally dropped their {silly object} in the {place feature}.
+Everyone laughed so hard that even the {job title} started {verb (-ing)}.
+At the end of the day, we all agreed it was the most {feeling} field trip ever.
