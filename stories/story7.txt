@@ -1,9 +1,13 @@
-This afternoon, my class visited the world-famous {place}, also known as the craziest science lab on Earth.
-Our teacher, {name}, told us to bring a {adjective} {object} “because real scientists are always prepared.”
-We arrived in a {color} {vehicle} that smelled like a mix of {food} and burnt {plural noun}.
-At the door, a hyper {animal} wearing a lab coat and goggles scanned our backpacks with a ray of glowing {liquid}.
-Inside, the head {job title} showed us a {another adjective} machine that could turn any {object} into a cloud of glittering {plural noun}.
-I volunteered first and watched in shock as my {adjective} {object} transformed and floated up toward the {place feature}.
-Then my best friend {friend name} tried it with their favorite {silly object}, but the machine malfunctioned and started {verb (-ing)} wildly.
-Glitter, {liquid}, and {plural noun} flew everywhere while the {animal} ran in circles, slipping on spilled {food}.
-When the chaos finally settled, we all agreed it was the most dangerously {feeling} science lesson we’d ever experience.
+This afternoon, my class visited the world-famous {place},
+Also known as the craziest science lab on Earth.
+Our teacher, {name}, told us to bring a {adjective} {object}
+“Because real scientists are always prepared.”
+We arrived in a {color} {vehicle} that
+Smelled like a mix of {food} and burnt {different food}.
+At the door, a hyper {animal} wearing a lab coat and goggles scanned our backpacks
+Inside, the head {job title} showed us a {different adjective} machine
+The machine could turn any {different object} into a cloud of glittering {plural noun}.
+My best friend, {friend name}, tried it with their favorite {final object},
+But the machine malfunctioned and started {verb (-ing)} wildly.
+Glitter and {liquid} flew everywhere
+When the chaos finally settled, we all agreed it was the most {feeling} science lesson we’d ever had!

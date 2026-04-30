@@ -1,8 +1,8 @@
-Early this morning, I climbed aboard the sailing ship {name} at the harbor in {place name}.
+Early this morning, I climbed aboard the sailing ship {name} at the {place name} harbor.
 Our captain, a {adjective} sailor named {another name}, handed me a {color} {object} for good luck.
-The sea was full of jumping {sea creatures} and the wind smelled like {smell}.
+The sea was full of jumping {plural animal} and the wind smelled like {smell}.
 As we unfurled the sails, a sudden {weather} storm made the {noun} slide across the deck.
-We followed an old map with a big red {shape} that promised {treasure type} on a hidden island.
-To reach it, we had to {verb} past sharp {another noun} and a swirling {one more noun}.
+We followed an old map with a big red {shape} that promised {item of value} on a hidden island.
+To reach it, we had to {verb} past sharp {different noun} and a swirling {final noun}.
 On the island, we discovered a cave lit by glowing {plural noun} and the sound of distant {sound}.
 When we sailed home at sunset, I knew it was the most {feeling} adventure of my life on the sea.
