@@ -1,8 +1,8 @@
 I signed up for the Great {adjective} Cooking Contest at the {place}.
 My secret recipe was a {color} {food} topped with crunchy {plural snack}.
 When the judge, Chef {name}, walked by, I started {verb (-ing)} nervously.
-The mixer went wild and splattered {sticky_substance} all over the {kitchen item}.
+The mixer went wild and splattered {sticky substance} all over the {kitchen item}.
 My teammate {friend name} slipped and landed in a bowl of {dessert}.
 The crowd cheered as we tried to decorate with {number} scoops of {ice cream flavor}.
-Even though our dish looked like a {silly_creature}, it tasted surprisingly {another adjective}.
+Even though our dish looked like a {creature}, it tasted surprisingly {another adjective}.
 In the end, we won the trophy for the most {noun} recipe of all time.
